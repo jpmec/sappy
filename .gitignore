@@ -1,2 +1,3 @@
 python_env/lib/python2.7/site-packages
 *.pyc
+db.sqlite3
